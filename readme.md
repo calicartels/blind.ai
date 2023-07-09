@@ -106,29 +106,13 @@ This software uses the following open source packages:
 - [Twilio](https://www.twilio.com/)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 
-## Contributors
-
-> - [A Nilavan](https://github.com/Nilavan)
->   - Backend development
->   - Object detection (v1 & v2)
->   - Currency detection (v2)
-> - [Ajith Manivannan](https://github.com/ajith-m-doodlebug)
->   - Frontend development
->   - Speech-to-text & text-to-speech
-> - [N Lirajkhanna](https://github.com/N-liraj-khanna)
->   - SOS feature
->   - Currency detection (v1)
->   - Backend deployment
-> - [TM Vishnu Mukundan](https://github.com/calicartels/)
->   - Text detection (OCR)
-
 ## Future Work
 
 Although the features we set out to build have been successfully implemented, the following areas can be improved in future versions of the app.
 
 - [x] Accuracy of detection models can be improved. We can use better and more efficient models trained on a wide variety of data to make it more robust.
 - [ ] Extend object detection to more classes. The current version of the app can detect up to 80 different everyday objects. Our goal is to extend this to most objects we come across.
-- [ ] Implement object detection in real-time instead of capturing image. This can drastically improve the “independence” of the visually impaired. At present, we send an image to the API and it returns the result. Our next goal is to allow the user to simply have the camera open while our app informs the person about objects detected at any time.
+- [ ] Implement object detection in real-time instead of capturing images. This can drastically improve the “independence” of the visually impaired. At present, we send an image to the API and it returns the result. Our next goal is to allow the user to simply have the camera open while our app informs the person about objects detected at any time.
 
 ## References
 
@@ -141,6 +125,3 @@ Although the features we set out to build have been successfully implemented, th
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
-
-> [nilavan.github.io](https://www.nilavan.github.io) &nbsp;&middot;&nbsp;
-> GitHub [@Nilavan](https://github.com/Nilavan) &nbsp;&middot;&nbsp;
