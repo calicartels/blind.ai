@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<img width = 100% src="https://user-images.githubusercontent.com/73516876/226720191-bf3d3b83-d5f4-41f5-9123-c61412a7ca8b.png" alt="App">
+<img width = 100% src="Frontend/assets/icons/blind ai.png" alt="App">
 </p>
 
 ## Introduction
