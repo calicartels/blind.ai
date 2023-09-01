@@ -2,7 +2,7 @@
   <br>
   <img src="./Frontend/assets/icons/logo_app.png" alt="Blind_AI" width="200">
   <br>
-  <a href="https://nilavan.github.io/projects/1-seemore">Blind_AI</a>
+  <a href="https://github.com/calicartels/blind.ai">Blind_AI</a>
   <br>
 </h1>
 
