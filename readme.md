@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="./Frontend/assets/icons/logo_app.png" alt="seemore" width="200">
+  <img src="./Frontend/assets/icons/logo_app.png" alt="Blind_AI" width="200">
   <br>
-  <a href="https://nilavan.github.io/projects/1-seemore">seemore</a>
+  <a href="https://nilavan.github.io/projects/1-seemore">Blind_AI</a>
   <br>
 </h1>
 
@@ -15,7 +15,6 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
-  <a href="#contributors">Contributors</a> •
   <a href="#future-work">Future Work</a> •
   <a href="#references">References</a> •
   <a href="#license">License</a>
@@ -74,7 +73,6 @@ seemore/
 
 ⭐️ Read text - Reads the text for you.
 
-For more details, visit [nilavan.github.io/projects/1-seemore](https://nilavan.github.io/projects/1-seemore).
 
 ## How To Use
 
@@ -84,10 +82,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Nilavan/seemore
+$ git clone https://github.com/calicartels/blind.ai
 
 # Go into the repository
-$ cd seemore
+$ cd blind.ai
 
 # Install dependencies
 $ pip install -r requirements.txt
@@ -111,7 +109,7 @@ This software uses the following open source packages:
 Although the features we set out to build have been successfully implemented, the following areas can be improved in future versions of the app.
 
 - [x] Accuracy of detection models can be improved. We can use better and more efficient models trained on a wide variety of data to make it more robust.
-- [ ] Extend object detection to more classes. The current version of the app can detect up to 80 different everyday objects. Our goal is to extend this to most objects we come across.
+- [ ] Replace YoLoV5 with a panoptic detection model based on scene graph generation to reconstruct movements using Graph Neural Networks.
 - [ ] Implement object detection in real-time instead of capturing images. This can drastically improve the “independence” of the visually impaired. At present, we send an image to the API and it returns the result. Our next goal is to allow the user to simply have the camera open while our app informs the person about objects detected at any time.
 
 ## References
