@@ -42,7 +42,7 @@ $ pip install -r requirements.txt
 
 ```
 .
-seemore/
+blind.ai/
 ├─ Frontend/
 ├─ calibration/
 │  ├─ Ref_image.png
