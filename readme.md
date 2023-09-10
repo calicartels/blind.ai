@@ -1,9 +1,9 @@
 <h1 align="center">
-⚠️⚠️⚠️⚠️⚠️⚠️Project Under Development/ Updation ⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️Project Under Development/ Updation ⚠️⚠️⚠️⚠️
 <h2> What to expect from the new update</h2>
 <p> 
-- Replacing the object detection with a GNN-based Video scene graph generator that is capable of detecting actions of the surrounding agents along with their identification.
-- Improved timing efficiency on the SOS feature through the use of a in-house SNS system.
+- Replacing the object detection with a GNN-based Video scene graph generator that is capable of detecting actions of the surrounding agents along with their identification. <br>
+- Improved timing efficiency on the SOS feature through the use of an in-house SNS system.<br>
 
 </p>
 
