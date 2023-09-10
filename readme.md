@@ -4,6 +4,8 @@
 <p> 
 - Replacing the object detection with a GNN-based Video scene graph generator that is capable of detecting actions of the surrounding agents along with their identification. <br>
 - Improved timing efficiency on the SOS feature through the use of an in-house SNS system.<br>
+- Addition of Support for recognition for Tamil handwritten character recognition. <br>
+
 
 </p>
 
