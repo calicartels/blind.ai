@@ -1,4 +1,16 @@
 <h1 align="center">
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️Project Under Development/ Updation ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+<h2> What to expect from the new update</h2>
+<p> 
+- Replacing the object detection with a GNN-based Video scene graph generator that is capable of detecting actions of the surrounding agents along with their identification.
+- Improved timing efficiency on the SOS feature through the use of a in-house SNS system.
+
+</p>
+
+
+</h1>
+
+<h1 align="center">
   <br>
   <img src="./Frontend/assets/icons/logo_app.png" alt="Blind_AI" width="200">
   <br>
