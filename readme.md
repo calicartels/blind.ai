@@ -1,5 +1,5 @@
 <h1 align="center">
-⚠️⚠️⚠️⚠️Project Under Development/ Updation ⚠️⚠️⚠️⚠️
+⚠️Project Under Development/ Updation ⚠️
 <h2> What to expect from the new update</h2>
 <p> 
 - Replacing the object detection with a GNN-based Video scene graph generator that is capable of detecting actions of the surrounding agents along with their identification. <br>
